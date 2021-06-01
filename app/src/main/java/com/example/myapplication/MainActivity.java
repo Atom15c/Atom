@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
 
     //8ui9o0pli90klop-[lp;[;p[;p[;[;p[
 
-
+/kiopokjippo;[lpolpol]
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
